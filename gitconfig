@@ -53,5 +53,7 @@
 [init]
   defaultBranch = master
 [user]
-	email = sofialejandra.larrea@gmail.com
-	name = sofia larrea
+	email = sofialejandra@gmail.com
+	name = sofilarrea
+[credential]
+	helper = cache --timeout=3600
